@@ -95,13 +95,14 @@ h1 span {
   color: #334155;
 }
 
-.hero-left button {
+.hero-left a {
   padding: 12px 24px;
   background-color: #fa7921;
   box-shadow: 0 4px 14px rgba(250, 121, 33, 0.3);
   color: white;
   border-radius: 8px;
   margin-top: 12px;
+  text-decoration: none;
   width: fit-content;
   border: none;
   font-size: 18px;
