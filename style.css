@@ -109,10 +109,10 @@ h1 span {
   transition: 0.3s;
   cursor: pointer;
 }
-.hero-left button:hover {
+.hero-left a:hover {
   background-color: #f6aa1c;
 }
-.hero-left button:active {
+.hero-left a:active {
   background-color: #bc3908;
   transform: scale(0.95);
 }
