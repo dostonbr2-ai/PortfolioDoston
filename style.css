@@ -149,7 +149,7 @@ h1 span {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  width: 650px;
+  max-width: 650px;
   padding: 40px;
   background-color: #ffffff;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
