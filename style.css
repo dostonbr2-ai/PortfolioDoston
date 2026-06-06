@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
+    font-family: "Nunito", sans-serif;
+
 }
 
 
@@ -137,7 +138,7 @@ h1 span {
     border: 3px solid #00c9a7;
     border-radius: 50%;
     object-fit: cover;
-    object-position: center;
+    object-position: top;
     display: block;
 }
 
